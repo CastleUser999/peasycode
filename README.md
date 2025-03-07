@@ -1,5 +1,5 @@
 # PeasyCode
-PyPI or Python Package Index is used to create this package to publish it
+PyPI or Python Package Index is used to create this package to publish it,
 PeasyCode is a Python package to generate code while running the code by simply running 
 ``` import peasycode
 if __name__ = "__main__":
