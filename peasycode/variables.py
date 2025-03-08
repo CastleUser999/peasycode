@@ -1,4 +1,7 @@
 def main() -> None:
-  ans = input("<STRING> ")
+  import CODTAB
+  ans = input("<NAME> ")
   data = input("<DATATYPE> ")
-  val = input("<
+  val = input("<VALUE> ")
+  index = input("<INDEX> ")
+  CODTAB.codtab.insert(index, f'{ans}: {data} = {val}')
