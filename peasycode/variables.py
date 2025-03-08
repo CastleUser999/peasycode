@@ -1,3 +1,4 @@
 def main() -> None:
   ans = input("<STRING> ")
-  data = i
+  data = input("<DATATYPE> ")
+  val = input("<
